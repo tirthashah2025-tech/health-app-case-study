@@ -80,7 +80,7 @@ Each failure can be handled separately in the app and searched in the logs.
 - Better portion estimation, the largest remaining source of error
 - Semantic (embedding-based) matching for regional dishes
 - A labeled photo test set so accuracy can be measured automatically
-- Research with a MedStar-Georgetown oncology fellow: the study went through Institutional Review Board review, and the manuscript is in review for publication
+- Research with a MedStar-Georgetown oncology fellow: Institutional Review Board review is underway, and the manuscript is in progress
 
 ---
 
